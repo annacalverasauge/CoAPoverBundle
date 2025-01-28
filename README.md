@@ -61,7 +61,7 @@ source .venv/bin/activate
 python3 NodeAaap2.py
 ```
 
-And scheme of the deployed code can be seen in the image below.
+An scheme of the deployed code can be seen in the image below.
 
 
 <img width="437" alt="image" src="https://github.com/user-attachments/assets/047ed7b4-743b-4ece-b32f-caff7e1dba4b" />
