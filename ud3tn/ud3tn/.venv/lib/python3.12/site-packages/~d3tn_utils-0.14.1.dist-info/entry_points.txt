@@ -1,0 +1,17 @@
+[console_scripts]
+aap-config = ud3tn_utils.aap.bin.aap_config:main
+aap-contact-plan-reader = ud3tn_utils.aap.bin.aap_contact_plan_reader:main
+aap-echo = ud3tn_utils.aap.bin.aap_echo:main
+aap-ping = ud3tn_utils.aap.bin.aap_ping:main
+aap-receive = ud3tn_utils.aap.bin.aap_receive:main
+aap-send = ud3tn_utils.aap.bin.aap_send:main
+aap-send-and-receive = ud3tn_utils.aap.bin.aap_send_and_receive:main
+aap-storage-agent = ud3tn_utils.aap.bin.aap_storage_agent:main
+aap2-bdm-static = ud3tn_utils.aap2.bin.aap2_bdm_static:main
+aap2-bdm-ud3tn-routing = ud3tn_utils.aap2.bin.aap2_bdm_ud3tn_routing:main
+aap2-config = ud3tn_utils.aap2.bin.aap2_config:main
+aap2-configure-link = ud3tn_utils.aap2.bin.aap2_configure_link:main
+aap2-ping = ud3tn_utils.aap2.bin.aap2_ping:main
+aap2-receive = ud3tn_utils.aap2.bin.aap2_receive:main
+aap2-send = ud3tn_utils.aap2.bin.aap2_send:main
+aap2-storage-agent = ud3tn_utils.aap2.bin.aap2_storage_agent:main
