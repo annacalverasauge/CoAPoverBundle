@@ -70,7 +70,7 @@ An scheme of the deployed code can be seen in the image below.
 This work was funded in part by the Spanish MCIU/AEI/10.13039/501100011033/FEDER/UE through projectPID2023-146378NB-I00, and by Secretaria d'Universitats i Recerca del departament d'Empresa i Coneixement de la Generalitat de Catalunya with the grant number 2021 SGR 00330.
 
 
-I want to thank Anna Calveras Augé for trusting me with this project and assisting me during the process. 
+I want to thank Anna Calveras Augé (https://orcid.org/0000-0001-6371-8595) for leading this project and assisting me during the process. 
 
 
 
