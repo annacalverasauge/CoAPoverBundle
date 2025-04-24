@@ -68,6 +68,7 @@ An scheme of the deployed code can be seen in the image below.
 
 ## Authors
 Max Lampurlanés
+
 Anna Calveras
 
 ## Acknowledgements
