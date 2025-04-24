@@ -66,6 +66,10 @@ An scheme of the deployed code can be seen in the image below.
 
 <img width="437" alt="image" src="https://github.com/user-attachments/assets/047ed7b4-743b-4ece-b32f-caff7e1dba4b" />
 
+## Authors
+Max Lampurlanés
+Anna Calveras
+
 ## Acknowledgements
 This work was funded in part by the Spanish MCIU/AEI/10.13039/501100011033/FEDER/UE through projectPID2023-146378NB-I00, and by Secretaria d'Universitats i Recerca del departament d'Empresa i Coneixement de la Generalitat de Catalunya with the grant number 2021 SGR 00330.
 
